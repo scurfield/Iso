@@ -1,0 +1,1934 @@
+fileFormatVersion: 2
+guid: 8e902964ff12c6f4b869e04f99fa67d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2951295649573696683
+    second: Cliff and Tent_0
+  - first:
+      213: -7818914545584937298
+    second: Cliff and Tent_1
+  - first:
+      213: 4624448322987464755
+    second: Cliff and Tent_2
+  - first:
+      213: -1673315748851415839
+    second: Cliff and Tent_3
+  - first:
+      213: -8068377066866988230
+    second: Cliff and Tent_4
+  - first:
+      213: -4204546622949246917
+    second: Cliff and Tent_5
+  - first:
+      213: -4260471474763307206
+    second: Cliff and Tent_6
+  - first:
+      213: 8452633726264251432
+    second: Cliff and Tent_7
+  - first:
+      213: -8416961256578438104
+    second: Cliff and Tent_8
+  - first:
+      213: -6931506220861279213
+    second: Cliff and Tent_9
+  - first:
+      213: 5187859384003370761
+    second: Cliff and Tent_10
+  - first:
+      213: -8754495378115612673
+    second: Cliff and Tent_11
+  - first:
+      213: -4677623558459191904
+    second: Cliff and Tent_12
+  - first:
+      213: 6325630719848919343
+    second: Cliff and Tent_13
+  - first:
+      213: 9005128434730851278
+    second: Cliff and Tent_14
+  - first:
+      213: -506809034168854510
+    second: Cliff and Tent_15
+  - first:
+      213: -1657152264625757581
+    second: Cliff and Tent_16
+  - first:
+      213: 4207258692551401553
+    second: Cliff and Tent_17
+  - first:
+      213: 6131094755626540692
+    second: Cliff and Tent_18
+  - first:
+      213: -4849661008925189123
+    second: Cliff and Tent_19
+  - first:
+      213: 6788596606292566486
+    second: Cliff and Tent_20
+  - first:
+      213: -8471290719779271545
+    second: Cliff and Tent_21
+  - first:
+      213: -8863811131769234489
+    second: Cliff and Tent_22
+  - first:
+      213: 3538033563694126265
+    second: Cliff and Tent_23
+  - first:
+      213: -833699009692417658
+    second: Cliff and Tent_24
+  - first:
+      213: 1398938738997490369
+    second: Cliff and Tent_25
+  - first:
+      213: -3229990145651789102
+    second: Cliff and Tent_26
+  - first:
+      213: 4126034659091478321
+    second: Cliff and Tent_27
+  - first:
+      213: -8374044950232372424
+    second: Cliff and Tent_28
+  - first:
+      213: -8592689842579290660
+    second: Cliff and Tent_0
+  - first:
+      213: -5218265712051891160
+    second: Cliff and Tent_1
+  - first:
+      213: -33111505827945018
+    second: Cliff and Tent_2
+  - first:
+      213: -441580492896356950
+    second: Cliff and Tent_3
+  - first:
+      213: -1640361112751257515
+    second: Cliff and Tent_4
+  - first:
+      213: 825050023089383941
+    second: Cliff and Tent_5
+  - first:
+      213: 3991285703386105925
+    second: Cliff and Tent_6
+  - first:
+      213: -5718614322527873562
+    second: Cliff and Tent_7
+  - first:
+      213: 3622439494187654273
+    second: Cliff and Tent_8
+  - first:
+      213: 5840916139145801403
+    second: Cliff and Tent_9
+  - first:
+      213: 6589277625628788744
+    second: Cliff and Tent_10
+  - first:
+      213: 4042852409665269330
+    second: Cliff and Tent_11
+  - first:
+      213: 7234252636973212667
+    second: Cliff and Tent_12
+  - first:
+      213: -1845510097558052486
+    second: Cliff and Tent_13
+  - first:
+      213: -1591849649125034460
+    second: Cliff and Tent_14
+  - first:
+      213: 8915714703075362347
+    second: Cliff and Tent_15
+  - first:
+      213: 2039828531857133947
+    second: Cliff and Tent_16
+  - first:
+      213: 1481157484099407418
+    second: Cliff and Tent_17
+  - first:
+      213: 5423981241721357669
+    second: Cliff and Tent_18
+  - first:
+      213: -3611839711054497701
+    second: Cliff and Tent_19
+  - first:
+      213: 8743568581507581653
+    second: Cliff and Tent_20
+  - first:
+      213: 6545418107510051087
+    second: Cliff and Tent_21
+  - first:
+      213: -3483656640756830244
+    second: Cliff and Tent_22
+  - first:
+      213: 3686576711162400267
+    second: Cliff and Tent_23
+  - first:
+      213: -7804809955675550316
+    second: Cliff and Tent_24
+  - first:
+      213: 2836901598202235186
+    second: Cliff and Tent_25
+  - first:
+      213: 3195643346141837300
+    second: Cliff and Tent_26
+  - first:
+      213: -8778929327565777609
+    second: Cliff and Tent_27
+  - first:
+      213: 4514008857511960645
+    second: Cliff and Tent_28
+  - first:
+      213: 3808602174637032388
+    second: Cliff and Tent_29
+  - first:
+      213: -5767096673825890277
+    second: Cliff and Tent_30
+  - first:
+      213: -5134526351628241895
+    second: Cliff and Tent_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cliff and Tent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -37}
+        - {x: 16, y: -33}
+        - {x: 19, y: -34}
+        - {x: 26, y: -29}
+        - {x: 26, y: -25}
+        - {x: 25, y: -19}
+        - {x: 24, y: -14}
+        - {x: 22, y: -11}
+        - {x: 20, y: -10}
+        - {x: 19, y: 1}
+        - {x: 16, y: 4}
+        - {x: 16, y: 8}
+        - {x: 18, y: 12}
+        - {x: 18, y: 14}
+        - {x: 17, y: 23}
+        - {x: 16, y: 27}
+        - {x: 13, y: 30}
+        - {x: 12, y: 40}
+        - {x: 11, y: 44}
+        - {x: 9, y: 47}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -26, y: 26}
+        - {x: -26, y: 25}
+        - {x: -23, y: 10}
+        - {x: -20, y: 8}
+        - {x: -20, y: 1}
+        - {x: -19, y: -3}
+        - {x: -21, y: -5}
+        - {x: -21, y: -13}
+        - {x: -18, y: -16}
+        - {x: -17, y: -26}
+        - {x: -16, y: -29}
+        - {x: -13, y: -34}
+        - {x: -11, y: -44}
+        - {x: -9, y: -46}
+        - {x: 2, y: -46}
+        - {x: 5, y: -45}
+        - {x: 10, y: -44}
+        - {x: 13, y: -43}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: cd544fb3d12a0c880800000000000000
+      internalID: -8592689842579290660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -34}
+        - {x: 13, y: -32}
+        - {x: 16, y: -30}
+        - {x: 17, y: -27}
+        - {x: 17, y: -21}
+        - {x: 18, y: -20}
+        - {x: 18, y: -16}
+        - {x: 21, y: -13}
+        - {x: 21, y: -7}
+        - {x: 22, y: -5}
+        - {x: 19, y: -2}
+        - {x: 19, y: 0}
+        - {x: 20, y: 1}
+        - {x: 20, y: 9}
+        - {x: 23, y: 10}
+        - {x: 23, y: 13}
+        - {x: 24, y: 14}
+        - {x: 24, y: 19}
+        - {x: 25, y: 20}
+        - {x: 25, y: 24}
+        - {x: 27, y: 27}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -9, y: 47}
+        - {x: -11, y: 44}
+        - {x: -11, y: 41}
+        - {x: -12, y: 40}
+        - {x: -12, y: 35}
+        - {x: -13, y: 34}
+        - {x: -13, y: 30}
+        - {x: -16, y: 27}
+        - {x: -16, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: 15}
+        - {x: -18, y: 14}
+        - {x: -18, y: 12}
+        - {x: -16, y: 9}
+        - {x: -16, y: 4}
+        - {x: -19, y: 0}
+        - {x: -19, y: -5}
+        - {x: -20, y: -6}
+        - {x: -20, y: -11}
+        - {x: -21, y: -11}
+        - {x: -24, y: -14}
+        - {x: -25, y: -24}
+        - {x: -26, y: -25}
+        - {x: -26, y: -31}
+        - {x: -20, y: -39}
+        - {x: -18, y: -38}
+        - {x: -15, y: -38}
+        - {x: -14, y: -40}
+        - {x: -10, y: -41}
+        - {x: -8, y: -39}
+        - {x: -5, y: -41}
+        - {x: -4, y: -43}
+        - {x: 0, y: -44}
+        - {x: 2, y: -42}
+        - {x: 3, y: -43}
+        - {x: 5, y: -43}
+        - {x: 8, y: -46}
+        - {x: 11, y: -45}
+        - {x: 11, y: -41}
+        - {x: 12, y: -40}
+        - {x: 12, y: -35}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 824db818bfef497b0800000000000000
+      internalID: -5218265712051891160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 26, y: 38}
+        - {x: 24, y: 38}
+        - {x: 14, y: 32}
+        - {x: 11, y: 30}
+        - {x: -1, y: 27}
+        - {x: -8, y: 24}
+        - {x: -11, y: 20}
+        - {x: -11, y: 18}
+        - {x: -9, y: 16}
+        - {x: -2, y: 14}
+        - {x: 2, y: 14}
+        - {x: 6, y: 16}
+        - {x: 15, y: 20}
+        - {x: 23, y: 24}
+      tessellationDetail: 0.78
+      bones: []
+      spriteID: 6c5a529c24d5a8ff0800000000000000
+      internalID: -33111505827945018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 23}
+        - {x: -2, y: 25}
+        - {x: -16, y: 36}
+        - {x: -20, y: 37}
+        - {x: -21, y: 38}
+        - {x: -26, y: 38}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -15, y: 21}
+        - {x: -13, y: 19}
+        - {x: -6, y: 16}
+        - {x: -1, y: 13}
+        - {x: 3, y: 15}
+        - {x: 5, y: 15}
+        - {x: 9, y: 19}
+        - {x: 9, y: 20}
+      tessellationDetail: 1
+      bones: []
+      spriteID: aa5bb2d91e03fd9f0800000000000000
+      internalID: -441580492896356950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -42}
+        - {x: 6, y: -39}
+        - {x: 10, y: -38}
+        - {x: 11, y: -37}
+        - {x: 16, y: -37}
+        - {x: 19, y: -34}
+        - {x: 20, y: -34}
+        - {x: 26, y: -28}
+        - {x: 26, y: -25}
+        - {x: 25, y: -24}
+        - {x: 25, y: -19}
+        - {x: 24, y: -18}
+        - {x: 24, y: -14}
+        - {x: 22, y: -11}
+        - {x: 20, y: -10}
+        - {x: 19, y: 1}
+        - {x: 16, y: 4}
+        - {x: 16, y: 8}
+        - {x: 15, y: 10}
+        - {x: 18, y: 12}
+        - {x: 18, y: 14}
+        - {x: 17, y: 15}
+        - {x: 17, y: 23}
+        - {x: 16, y: 24}
+        - {x: 16, y: 27}
+        - {x: 13, y: 30}
+        - {x: 12, y: 40}
+        - {x: 11, y: 41}
+        - {x: 11, y: 44}
+        - {x: 9, y: 47}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -26, y: 26}
+        - {x: -26, y: 25}
+        - {x: -25, y: 24}
+        - {x: -25, y: 20}
+        - {x: -24, y: 19}
+        - {x: -24, y: 15}
+        - {x: -23, y: 14}
+        - {x: -23, y: 11}
+        - {x: -22, y: 9}
+        - {x: -20, y: 8}
+        - {x: -20, y: 1}
+        - {x: -19, y: 0}
+        - {x: -19, y: -2}
+        - {x: -21, y: -4}
+        - {x: -21, y: -13}
+        - {x: -18, y: -16}
+        - {x: -17, y: -26}
+        - {x: -16, y: -27}
+        - {x: -16, y: -29}
+        - {x: -13, y: -32}
+        - {x: -13, y: -34}
+        - {x: -12, y: -35}
+        - {x: -12, y: -39}
+        - {x: -11, y: -40}
+        - {x: -11, y: -44}
+        - {x: -9, y: -46}
+        - {x: -3, y: -45}
+        - {x: 0, y: -42}
+        - {x: 3, y: -44}
+        - {x: 4, y: -44}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 558c81b42444c39e0800000000000000
+      internalID: -1640361112751257515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: -27}
+        - {x: 17, y: -21}
+        - {x: 18, y: -20}
+        - {x: 18, y: -16}
+        - {x: 21, y: -13}
+        - {x: 21, y: -5}
+        - {x: 19, y: -3}
+        - {x: 19, y: 0}
+        - {x: 20, y: 1}
+        - {x: 20, y: 9}
+        - {x: 23, y: 10}
+        - {x: 23, y: 13}
+        - {x: 24, y: 14}
+        - {x: 24, y: 19}
+        - {x: 25, y: 20}
+        - {x: 25, y: 24}
+        - {x: 27, y: 27}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -9, y: 47}
+        - {x: -11, y: 44}
+        - {x: -11, y: 41}
+        - {x: -12, y: 40}
+        - {x: -12, y: 35}
+        - {x: -13, y: 34}
+        - {x: -13, y: 30}
+        - {x: -16, y: 27}
+        - {x: -16, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: 15}
+        - {x: -18, y: 14}
+        - {x: -18, y: 12}
+        - {x: -15, y: 10}
+        - {x: -16, y: 8}
+        - {x: -16, y: 4}
+        - {x: -19, y: 0}
+        - {x: -19, y: -5}
+        - {x: -20, y: -6}
+        - {x: -20, y: -11}
+        - {x: -21, y: -11}
+        - {x: -24, y: -14}
+        - {x: -24, y: -18}
+        - {x: -25, y: -19}
+        - {x: -25, y: -24}
+        - {x: -26, y: -25}
+        - {x: -26, y: -28}
+        - {x: -22, y: -32}
+        - {x: -22, y: -34}
+        - {x: -20, y: -36}
+        - {x: -19, y: -36}
+        - {x: -17, y: -34}
+        - {x: -14, y: -34}
+        - {x: -9, y: -42}
+        - {x: -7, y: -42}
+        - {x: -6, y: -41}
+        - {x: -1, y: -44}
+        - {x: 5, y: -45}
+        - {x: 6, y: -46}
+        - {x: 9, y: -46}
+        - {x: 11, y: -44}
+        - {x: 13, y: -32}
+        - {x: 16, y: -30}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 50aab2cef9a237b00800000000000000
+      internalID: 825050023089383941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 26, y: 38}
+        - {x: 22, y: 38}
+        - {x: 17, y: 35}
+        - {x: 10, y: 35}
+        - {x: 6, y: 32}
+        - {x: -1, y: 29}
+        - {x: -6, y: 27}
+        - {x: -10, y: 23}
+        - {x: -11, y: 19}
+        - {x: -1, y: 13}
+        - {x: 1, y: 13}
+        - {x: 6, y: 16}
+        - {x: 22, y: 23}
+        - {x: 25, y: 26}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5488c635335e36730800000000000000
+      internalID: 3991285703386105925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: 21}
+        - {x: 8, y: 23}
+        - {x: 7, y: 23}
+        - {x: 2, y: 29}
+        - {x: -1, y: 30}
+        - {x: -5, y: 30}
+        - {x: -8, y: 34}
+        - {x: -15, y: 37}
+        - {x: -18, y: 38}
+        - {x: -26, y: 38}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -25, y: 26}
+        - {x: -23, y: 24}
+        - {x: -20, y: 23}
+        - {x: -17, y: 21}
+        - {x: -15, y: 21}
+        - {x: -2, y: 14}
+        - {x: 2, y: 14}
+        - {x: 5, y: 16}
+        - {x: 7, y: 16}
+        - {x: 10, y: 19}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6e5d34a729663a0b0800000000000000
+      internalID: -5718614322527873562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -47}
+        - {x: 11, y: -45}
+        - {x: 13, y: -32}
+        - {x: 16, y: -30}
+        - {x: 17, y: -27}
+        - {x: 17, y: -21}
+        - {x: 18, y: -20}
+        - {x: 18, y: -16}
+        - {x: 21, y: -13}
+        - {x: 21, y: -5}
+        - {x: 19, y: -3}
+        - {x: 19, y: 0}
+        - {x: 20, y: 1}
+        - {x: 20, y: 9}
+        - {x: 23, y: 10}
+        - {x: 23, y: 13}
+        - {x: 24, y: 14}
+        - {x: 24, y: 19}
+        - {x: 25, y: 20}
+        - {x: 25, y: 24}
+        - {x: 27, y: 27}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -26, y: 26}
+        - {x: -26, y: 25}
+        - {x: -25, y: 24}
+        - {x: -25, y: 20}
+        - {x: -24, y: 19}
+        - {x: -24, y: 15}
+        - {x: -23, y: 14}
+        - {x: -23, y: 11}
+        - {x: -22, y: 9}
+        - {x: -20, y: 8}
+        - {x: -20, y: 1}
+        - {x: -19, y: 0}
+        - {x: -19, y: -2}
+        - {x: -22, y: -5}
+        - {x: -22, y: -6}
+        - {x: -21, y: -7}
+        - {x: -21, y: -13}
+        - {x: -18, y: -16}
+        - {x: -17, y: -26}
+        - {x: -16, y: -27}
+        - {x: -16, y: -29}
+        - {x: -13, y: -32}
+        - {x: -13, y: -34}
+        - {x: -12, y: -35}
+        - {x: -12, y: -39}
+        - {x: -11, y: -40}
+        - {x: -11, y: -44}
+        - {x: -10, y: -46}
+        - {x: -7, y: -47}
+        - {x: -4, y: -47}
+        - {x: -2, y: -45}
+        - {x: 1, y: -45}
+        - {x: 2, y: -46}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 18c9667078d754230800000000000000
+      internalID: 3622439494187654273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: -25}
+        - {x: -11, y: -22}
+        - {x: -11, y: -19}
+        - {x: -12, y: -17}
+        - {x: -11, y: -15}
+        - {x: -10, y: -15}
+        - {x: -6, y: -10}
+        - {x: -6, y: -5}
+        - {x: -5, y: -4}
+        - {x: -5, y: -1}
+        - {x: -8, y: 4}
+        - {x: -6, y: 7}
+        - {x: -6, y: 9}
+        - {x: -2, y: 11}
+        - {x: 5, y: 16}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -9, y: 47}
+        - {x: -11, y: 44}
+        - {x: -11, y: 41}
+        - {x: -12, y: 40}
+        - {x: -12, y: 35}
+        - {x: -13, y: 34}
+        - {x: -13, y: 30}
+        - {x: -16, y: 27}
+        - {x: -16, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: 15}
+        - {x: -18, y: 14}
+        - {x: -18, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: 6}
+        - {x: -19, y: 0}
+        - {x: -19, y: -5}
+        - {x: -20, y: -6}
+        - {x: -20, y: -11}
+        - {x: -21, y: -11}
+        - {x: -24, y: -14}
+        - {x: -25, y: -22}
+        - {x: -28, y: -27}
+        - {x: -28, y: -29}
+        - {x: -26, y: -31}
+        - {x: -27, y: -32}
+        - {x: -27, y: -34}
+        - {x: -24, y: -37}
+        - {x: -22, y: -37}
+        - {x: -18, y: -35}
+        - {x: -16, y: -26}
+        - {x: -15, y: -25}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bbea1a4384a1f0150800000000000000
+      internalID: 5840916139145801403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 22, y: 23}
+        - {x: 25, y: 26}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 26, y: 38}
+        - {x: 22, y: 38}
+        - {x: 19, y: 37}
+        - {x: 15, y: 35}
+        - {x: 9, y: 35}
+        - {x: 8, y: 34}
+        - {x: 5, y: 34}
+        - {x: 1, y: 32}
+        - {x: -4, y: 32}
+        - {x: -5, y: 33}
+        - {x: -10, y: 33}
+        - {x: -13, y: 35}
+        - {x: -15, y: 35}
+        - {x: -21, y: 38}
+        - {x: -26, y: 38}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -25, y: 26}
+        - {x: -22, y: 24}
+        - {x: -20, y: 24}
+        - {x: -17, y: 22}
+        - {x: -12, y: 19}
+        - {x: -10, y: 19}
+        - {x: -8, y: 16}
+        - {x: -1, y: 13}
+        - {x: 0, y: 13}
+        - {x: 3, y: 15}
+        - {x: 14, y: 21}
+        - {x: 17, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 808880ac611d17b50800000000000000
+      internalID: 6589277625628788744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -19}
+        - {x: 24, y: -18}
+        - {x: 24, y: -14}
+        - {x: 22, y: -11}
+        - {x: 20, y: -10}
+        - {x: 19, y: 1}
+        - {x: 17, y: 3}
+        - {x: 17, y: 5}
+        - {x: 15, y: 9}
+        - {x: 18, y: 12}
+        - {x: 18, y: 14}
+        - {x: 17, y: 15}
+        - {x: 17, y: 23}
+        - {x: 16, y: 24}
+        - {x: 16, y: 27}
+        - {x: 13, y: 30}
+        - {x: 12, y: 40}
+        - {x: 11, y: 41}
+        - {x: 11, y: 44}
+        - {x: 9, y: 47}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -5, y: 16}
+        - {x: -3, y: 14}
+        - {x: 3, y: 11}
+        - {x: 7, y: 8}
+        - {x: 5, y: 5}
+        - {x: 5, y: 2}
+        - {x: 6, y: 1}
+        - {x: 6, y: -7}
+        - {x: 8, y: -10}
+        - {x: 11, y: -15}
+        - {x: 11, y: -21}
+        - {x: 12, y: -24}
+        - {x: 15, y: -26}
+        - {x: 15, y: -27}
+        - {x: 18, y: -30}
+        - {x: 18, y: -31}
+        - {x: 22, y: -36}
+        - {x: 26, y: -35}
+        - {x: 28, y: -33}
+        - {x: 27, y: -26}
+        - {x: 26, y: -25}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 25e2e6db8d81b1830800000000000000
+      internalID: 4042852409665269330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -32}
+        - {x: 16, y: -30}
+        - {x: 17, y: -27}
+        - {x: 17, y: -21}
+        - {x: 18, y: -20}
+        - {x: 18, y: -16}
+        - {x: 21, y: -13}
+        - {x: 21, y: -5}
+        - {x: 19, y: -3}
+        - {x: 19, y: 0}
+        - {x: 20, y: 1}
+        - {x: 20, y: 9}
+        - {x: 23, y: 10}
+        - {x: 23, y: 13}
+        - {x: 24, y: 14}
+        - {x: 24, y: 19}
+        - {x: 25, y: 20}
+        - {x: 25, y: 24}
+        - {x: 27, y: 27}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -26, y: 26}
+        - {x: -26, y: 25}
+        - {x: -25, y: 24}
+        - {x: -25, y: 20}
+        - {x: -24, y: 19}
+        - {x: -24, y: 15}
+        - {x: -23, y: 14}
+        - {x: -23, y: 11}
+        - {x: -22, y: 9}
+        - {x: -20, y: 8}
+        - {x: -20, y: 1}
+        - {x: -19, y: 0}
+        - {x: -19, y: -3}
+        - {x: -21, y: -5}
+        - {x: -21, y: -13}
+        - {x: -18, y: -16}
+        - {x: -17, y: -26}
+        - {x: -16, y: -27}
+        - {x: -16, y: -29}
+        - {x: -13, y: -32}
+        - {x: -13, y: -34}
+        - {x: -12, y: -35}
+        - {x: -12, y: -39}
+        - {x: -11, y: -40}
+        - {x: -11, y: -44}
+        - {x: -9, y: -46}
+        - {x: -8, y: -46}
+        - {x: -6, y: -48}
+        - {x: -2, y: -48}
+        - {x: 0, y: -46}
+        - {x: 9, y: -46}
+        - {x: 11, y: -44}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bf3a832d17a356460800000000000000
+      internalID: 7234252636973212667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: -28}
+        - {x: -18, y: -28}
+        - {x: -15, y: -25}
+        - {x: -15, y: -23}
+        - {x: -14, y: -22}
+        - {x: -14, y: -18}
+        - {x: -8, y: -10}
+        - {x: -8, y: -8}
+        - {x: -5, y: -3}
+        - {x: -5, y: 1}
+        - {x: -3, y: 4}
+        - {x: -3, y: 6}
+        - {x: -6, y: 9}
+        - {x: -1, y: 14}
+        - {x: 1, y: 14}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -9, y: 47}
+        - {x: -11, y: 44}
+        - {x: -11, y: 41}
+        - {x: -12, y: 40}
+        - {x: -12, y: 35}
+        - {x: -13, y: 34}
+        - {x: -13, y: 30}
+        - {x: -16, y: 27}
+        - {x: -16, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: 16}
+        - {x: -18, y: 15}
+        - {x: -18, y: 12}
+        - {x: -17, y: 11}
+        - {x: -17, y: 3}
+        - {x: -19, y: 0}
+        - {x: -19, y: -5}
+        - {x: -20, y: -6}
+        - {x: -20, y: -11}
+        - {x: -21, y: -11}
+        - {x: -24, y: -14}
+        - {x: -25, y: -20}
+        - {x: -28, y: -23}
+        - {x: -29, y: -27}
+        - {x: -30, y: -28}
+        - {x: -30, y: -30}
+        - {x: -28, y: -32}
+        - {x: -26, y: -31}
+        - {x: -26, y: -36}
+        - {x: -24, y: -38}
+        - {x: -22, y: -38}
+        - {x: -20, y: -36}
+        - {x: -20, y: -32}
+        - {x: -19, y: -31}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a71e7ad185e6366e0800000000000000
+      internalID: -1845510097558052486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 19}
+        - {x: 17, y: 22}
+        - {x: 21, y: 23}
+        - {x: 25, y: 26}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 26, y: 38}
+        - {x: 20, y: 38}
+        - {x: 19, y: 37}
+        - {x: 15, y: 37}
+        - {x: 12, y: 35}
+        - {x: 10, y: 35}
+        - {x: 6, y: 33}
+        - {x: 3, y: 33}
+        - {x: 2, y: 32}
+        - {x: -4, y: 32}
+        - {x: -9, y: 31}
+        - {x: -22, y: 38}
+        - {x: -26, y: 38}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -25, y: 26}
+        - {x: -23, y: 24}
+        - {x: -12, y: 19}
+        - {x: -10, y: 17}
+        - {x: -1, y: 13}
+        - {x: 0, y: 13}
+        - {x: 4, y: 16}
+        - {x: 8, y: 17}
+        - {x: 10, y: 19}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 42672189d2d98e9e0800000000000000
+      internalID: -1591849649125034460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 96
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: -33}
+        - {x: 29, y: -26}
+        - {x: 27, y: -21}
+        - {x: 25, y: -20}
+        - {x: 24, y: -14}
+        - {x: 22, y: -12}
+        - {x: 22, y: -9}
+        - {x: 20, y: -7}
+        - {x: 20, y: -5}
+        - {x: 19, y: -4}
+        - {x: 19, y: 1}
+        - {x: 17, y: 3}
+        - {x: 17, y: 11}
+        - {x: 18, y: 12}
+        - {x: 17, y: 17}
+        - {x: 18, y: 18}
+        - {x: 18, y: 20}
+        - {x: 17, y: 21}
+        - {x: 17, y: 25}
+        - {x: 16, y: 28}
+        - {x: 13, y: 30}
+        - {x: 12, y: 40}
+        - {x: 11, y: 41}
+        - {x: 11, y: 44}
+        - {x: 9, y: 47}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -1, y: 14}
+        - {x: 1, y: 14}
+        - {x: 4, y: 11}
+        - {x: 5, y: 11}
+        - {x: 8, y: 9}
+        - {x: 5, y: 6}
+        - {x: 5, y: 2}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -7}
+        - {x: 7, y: -11}
+        - {x: 12, y: -16}
+        - {x: 14, y: -21}
+        - {x: 16, y: -22}
+        - {x: 16, y: -24}
+        - {x: 19, y: -29}
+        - {x: 19, y: -35}
+        - {x: 22, y: -38}
+        - {x: 24, y: -38}
+        - {x: 26, y: -36}
+        - {x: 26, y: -34}
+        - {x: 27, y: -35}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b26c883f84bfabb70800000000000000
+      internalID: 8915714703075362347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 26, y: -29}
+        - {x: 26, y: -25}
+        - {x: 25, y: -24}
+        - {x: 25, y: -19}
+        - {x: 24, y: -18}
+        - {x: 24, y: -14}
+        - {x: 22, y: -11}
+        - {x: 20, y: -10}
+        - {x: 19, y: 1}
+        - {x: 16, y: 4}
+        - {x: 16, y: 8}
+        - {x: 15, y: 10}
+        - {x: 18, y: 12}
+        - {x: 18, y: 14}
+        - {x: 17, y: 15}
+        - {x: 17, y: 23}
+        - {x: 16, y: 24}
+        - {x: 16, y: 27}
+        - {x: 13, y: 30}
+        - {x: 12, y: 40}
+        - {x: 11, y: 41}
+        - {x: 11, y: 44}
+        - {x: 9, y: 47}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -9, y: 47}
+        - {x: -11, y: 44}
+        - {x: -11, y: 41}
+        - {x: -12, y: 40}
+        - {x: -12, y: 35}
+        - {x: -13, y: 34}
+        - {x: -13, y: 30}
+        - {x: -16, y: 27}
+        - {x: -16, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: 15}
+        - {x: -18, y: 14}
+        - {x: -18, y: 12}
+        - {x: -15, y: 10}
+        - {x: -16, y: 8}
+        - {x: -16, y: 4}
+        - {x: -19, y: 0}
+        - {x: -19, y: -5}
+        - {x: -20, y: -6}
+        - {x: -20, y: -11}
+        - {x: -21, y: -11}
+        - {x: -24, y: -14}
+        - {x: -24, y: -18}
+        - {x: -25, y: -19}
+        - {x: -25, y: -24}
+        - {x: -26, y: -25}
+        - {x: -26, y: -28}
+        - {x: -24, y: -30}
+        - {x: -18, y: -30}
+        - {x: -17, y: -31}
+        - {x: -13, y: -31}
+        - {x: -10, y: -33}
+        - {x: -8, y: -33}
+        - {x: -7, y: -34}
+        - {x: -3, y: -34}
+        - {x: -2, y: -35}
+        - {x: 0, y: -35}
+        - {x: 8, y: -31}
+        - {x: 9, y: -32}
+        - {x: 19, y: -32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b711d040e3dee4c10800000000000000
+      internalID: 2039828531857133947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: -23}
+        - {x: 18, y: -21}
+        - {x: 18, y: -16}
+        - {x: 21, y: -13}
+        - {x: 21, y: -6}
+        - {x: 22, y: -4}
+        - {x: 20, y: 0}
+        - {x: 21, y: 1}
+        - {x: 21, y: 4}
+        - {x: 22, y: 5}
+        - {x: 22, y: 10}
+        - {x: 24, y: 13}
+        - {x: 24, y: 19}
+        - {x: 25, y: 20}
+        - {x: 25, y: 24}
+        - {x: 27, y: 27}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 26, y: 38}
+        - {x: 23, y: 38}
+        - {x: 20, y: 35}
+        - {x: 20, y: 33}
+        - {x: 19, y: 32}
+        - {x: 19, y: 27}
+        - {x: 17, y: 25}
+        - {x: 16, y: 25}
+        - {x: 12, y: 20}
+        - {x: 12, y: 17}
+        - {x: 11, y: 16}
+        - {x: 11, y: 12}
+        - {x: 10, y: 11}
+        - {x: 10, y: 7}
+        - {x: 9, y: 6}
+        - {x: 8, y: 0}
+        - {x: 9, y: -1}
+        - {x: 9, y: -9}
+        - {x: 8, y: -10}
+        - {x: 8, y: -13}
+        - {x: 4, y: -14}
+        - {x: 2, y: -16}
+        - {x: -1, y: -23}
+        - {x: -1, y: -26}
+        - {x: -3, y: -30}
+        - {x: -3, y: -33}
+        - {x: 2, y: -38}
+        - {x: 2, y: -41}
+        - {x: 5, y: -45}
+        - {x: 8, y: -46}
+        - {x: 11, y: -45}
+        - {x: 13, y: -32}
+        - {x: 17, y: -28}
+        - {x: 18, y: -24}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a3e082062e02e8410800000000000000
+      internalID: 1481157484099407418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 20}
+        - {x: 8, y: 23}
+        - {x: -8, y: 23}
+        - {x: -10, y: 21}
+        - {x: -10, y: 19}
+        - {x: -9, y: 17}
+        - {x: -5, y: 16}
+        - {x: -1, y: 13}
+        - {x: 2, y: 13}
+        - {x: 4, y: 15}
+        - {x: 6, y: 15}
+        - {x: 11, y: 19}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5650f2da33ad54b40800000000000000
+      internalID: 5423981241721357669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -33}
+        - {x: 3, y: -30}
+        - {x: 1, y: -26}
+        - {x: 0, y: -20}
+        - {x: -2, y: -17}
+        - {x: -4, y: -16}
+        - {x: -6, y: -13}
+        - {x: -6, y: -11}
+        - {x: -10, y: -7}
+        - {x: -10, y: -3}
+        - {x: -12, y: 0}
+        - {x: -11, y: 1}
+        - {x: -8, y: 5}
+        - {x: -8, y: 9}
+        - {x: -11, y: 15}
+        - {x: -11, y: 17}
+        - {x: -15, y: 25}
+        - {x: -20, y: 26}
+        - {x: -20, y: 36}
+        - {x: -22, y: 38}
+        - {x: -26, y: 38}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -26, y: 26}
+        - {x: -26, y: 25}
+        - {x: -25, y: 24}
+        - {x: -25, y: 20}
+        - {x: -24, y: 19}
+        - {x: -24, y: 15}
+        - {x: -23, y: 14}
+        - {x: -23, y: 11}
+        - {x: -21, y: 9}
+        - {x: -22, y: 8}
+        - {x: -21, y: 6}
+        - {x: -21, y: -1}
+        - {x: -22, y: -2}
+        - {x: -22, y: -5}
+        - {x: -21, y: -6}
+        - {x: -21, y: -13}
+        - {x: -18, y: -16}
+        - {x: -17, y: -26}
+        - {x: -16, y: -27}
+        - {x: -16, y: -29}
+        - {x: -13, y: -32}
+        - {x: -13, y: -34}
+        - {x: -12, y: -35}
+        - {x: -12, y: -39}
+        - {x: -10, y: -44}
+        - {x: -8, y: -44}
+        - {x: -2, y: -38}
+        - {x: -1, y: -38}
+        - {x: 2, y: -36}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b5872fc4bea20edc0800000000000000
+      internalID: -3611839711054497701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -35}
+        - {x: 9, y: -35}
+        - {x: 17, y: -31}
+        - {x: 21, y: -31}
+        - {x: 26, y: -29}
+        - {x: 26, y: -25}
+        - {x: 25, y: -24}
+        - {x: 25, y: -19}
+        - {x: 24, y: -18}
+        - {x: 24, y: -14}
+        - {x: 22, y: -11}
+        - {x: 20, y: -10}
+        - {x: 19, y: 1}
+        - {x: 16, y: 4}
+        - {x: 16, y: 8}
+        - {x: 15, y: 10}
+        - {x: 18, y: 12}
+        - {x: 18, y: 14}
+        - {x: 17, y: 15}
+        - {x: 17, y: 23}
+        - {x: 16, y: 24}
+        - {x: 16, y: 27}
+        - {x: 13, y: 30}
+        - {x: 12, y: 40}
+        - {x: 11, y: 41}
+        - {x: 11, y: 44}
+        - {x: 9, y: 47}
+        - {x: 6, y: 48}
+        - {x: -6, y: 48}
+        - {x: -9, y: 47}
+        - {x: -11, y: 44}
+        - {x: -11, y: 41}
+        - {x: -12, y: 40}
+        - {x: -12, y: 35}
+        - {x: -13, y: 34}
+        - {x: -13, y: 30}
+        - {x: -16, y: 27}
+        - {x: -16, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: 15}
+        - {x: -18, y: 14}
+        - {x: -18, y: 12}
+        - {x: -15, y: 10}
+        - {x: -16, y: 8}
+        - {x: -16, y: 4}
+        - {x: -19, y: 0}
+        - {x: -19, y: -5}
+        - {x: -20, y: -6}
+        - {x: -20, y: -11}
+        - {x: -21, y: -11}
+        - {x: -24, y: -14}
+        - {x: -24, y: -18}
+        - {x: -25, y: -19}
+        - {x: -25, y: -24}
+        - {x: -26, y: -25}
+        - {x: -26, y: -28}
+        - {x: -24, y: -30}
+        - {x: -16, y: -32}
+        - {x: -10, y: -36}
+        - {x: -7, y: -36}
+        - {x: -3, y: -38}
+        - {x: 1, y: -37}
+        - {x: 2, y: -38}
+        - {x: 5, y: -38}
+        - {x: 7, y: -37}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5d6860aac45675970800000000000000
+      internalID: 8743568581507581653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -34}
+        - {x: 13, y: -32}
+        - {x: 16, y: -30}
+        - {x: 17, y: -27}
+        - {x: 17, y: -21}
+        - {x: 18, y: -20}
+        - {x: 18, y: -16}
+        - {x: 21, y: -13}
+        - {x: 21, y: -7}
+        - {x: 22, y: -5}
+        - {x: 21, y: -4}
+        - {x: 21, y: 7}
+        - {x: 22, y: 8}
+        - {x: 22, y: 10}
+        - {x: 24, y: 14}
+        - {x: 25, y: 24}
+        - {x: 27, y: 27}
+        - {x: 32, y: 30}
+        - {x: 32, y: 35}
+        - {x: 26, y: 38}
+        - {x: 22, y: 38}
+        - {x: 17, y: 33}
+        - {x: 17, y: 26}
+        - {x: 13, y: 22}
+        - {x: 13, y: 20}
+        - {x: 12, y: 20}
+        - {x: 9, y: 17}
+        - {x: 8, y: 3}
+        - {x: 12, y: -1}
+        - {x: 10, y: -1}
+        - {x: 7, y: -5}
+        - {x: 7, y: -11}
+        - {x: -1, y: -15}
+        - {x: -2, y: -19}
+        - {x: -4, y: -22}
+        - {x: -5, y: -21}
+        - {x: -8, y: -22}
+        - {x: -10, y: -27}
+        - {x: -10, y: -34}
+        - {x: -5, y: -38}
+        - {x: -2, y: -38}
+        - {x: 5, y: -42}
+        - {x: 5, y: -43}
+        - {x: 8, y: -46}
+        - {x: 11, y: -45}
+        - {x: 11, y: -41}
+        - {x: 12, y: -40}
+        - {x: 12, y: -35}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f01db84f61ff5da50800000000000000
+      internalID: 6545418107510051087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 24}
+        - {x: -7, y: 24}
+        - {x: -10, y: 21}
+        - {x: -10, y: 18}
+        - {x: -4, y: 15}
+        - {x: -1, y: 13}
+        - {x: 1, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 21}
+        - {x: 9, y: 23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: cdf22401eb097afc0800000000000000
+      internalID: -3483656640756830244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -39}
+        - {x: 7, y: -36}
+        - {x: 11, y: -33}
+        - {x: 10, y: -29}
+        - {x: 9, y: -28}
+        - {x: 9, y: -26}
+        - {x: 5, y: -20}
+        - {x: 3, y: -21}
+        - {x: 1, y: -15}
+        - {x: -1, y: -13}
+        - {x: -4, y: -12}
+        - {x: -7, y: -10}
+        - {x: -7, y: -4}
+        - {x: -8, y: -2}
+        - {x: -12, y: 0}
+        - {x: -8, y: 3}
+        - {x: -8, y: 11}
+        - {x: -9, y: 12}
+        - {x: -9, y: 18}
+        - {x: -11, y: 23}
+        - {x: -14, y: 24}
+        - {x: -17, y: 26}
+        - {x: -17, y: 31}
+        - {x: -20, y: 38}
+        - {x: -26, y: 38}
+        - {x: -32, y: 35}
+        - {x: -32, y: 29}
+        - {x: -26, y: 26}
+        - {x: -26, y: 25}
+        - {x: -25, y: 24}
+        - {x: -25, y: 20}
+        - {x: -24, y: 19}
+        - {x: -24, y: 15}
+        - {x: -23, y: 14}
+        - {x: -23, y: 11}
+        - {x: -21, y: 9}
+        - {x: -21, y: -4}
+        - {x: -22, y: -5}
+        - {x: -21, y: -7}
+        - {x: -21, y: -13}
+        - {x: -18, y: -16}
+        - {x: -17, y: -26}
+        - {x: -16, y: -27}
+        - {x: -16, y: -29}
+        - {x: -13, y: -32}
+        - {x: -13, y: -34}
+        - {x: -12, y: -35}
+        - {x: -12, y: -39}
+        - {x: -11, y: -40}
+        - {x: -11, y: -44}
+        - {x: -9, y: -46}
+        - {x: -6, y: -45}
+        - {x: -6, y: -43}
+        - {x: -5, y: -42}
+        - {x: -3, y: -42}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b0e001a8cf9592330800000000000000
+      internalID: 3686576711162400267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dc68c62bebfa390800000000000000
+      internalID: -7804809955675550316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239059719f2be5720800000000000000
+      internalID: 2836901598202235186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7ff9b21b4395c20800000000000000
+      internalID: 3195643346141837300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff and Tent_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735de221a4afa2680800000000000000
+      internalID: -8778929327565777609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

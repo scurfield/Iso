@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 4f097fb223b914b419e88e8c61829d93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8331999701827868269
+    second: goblin_spearman_Throw_end_0
+  - first:
+      213: 4547616907036153384
+    second: goblin_spearman_Throw_end_1
+  - first:
+      213: -1623459501937484424
+    second: goblin_spearman_Throw_end_2
+  - first:
+      213: 2268898898958333911
+    second: goblin_spearman_Throw_end_3
+  - first:
+      213: -2683501907765667597
+    second: goblin_spearman_Throw_end_4
+  - first:
+      213: 8432275075901830561
+    second: goblin_spearman_Throw_end_5
+  - first:
+      213: 8892825232886406318
+    second: goblin_spearman_Throw_end_6
+  - first:
+      213: 7380786393556002384
+    second: goblin_spearman_Throw_end_7
+  - first:
+      213: 4641948210962645022
+    second: goblin_spearman_Throw_end_0
+  - first:
+      213: 2003249058081579321
+    second: goblin_spearman_Throw_end_1
+  - first:
+      213: 1463173997581301693
+    second: goblin_spearman_Throw_end_2
+  - first:
+      213: 8749331728700283856
+    second: goblin_spearman_Throw_end_3
+  - first:
+      213: 8574736640323773982
+    second: goblin_spearman_Throw_end_4
+  - first:
+      213: -1162789609380676497
+    second: goblin_spearman_Throw_end_5
+  - first:
+      213: -139214544176879261
+    second: goblin_spearman_Throw_end_6
+  - first:
+      213: -8417533680135308900
+    second: goblin_spearman_Throw_end_7
+  - first:
+      213: 6310741685156689539
+    second: goblin_spearman_Throw_end_8
+  - first:
+      213: -3195778909713197733
+    second: goblin_spearman_Throw_end_9
+  - first:
+      213: 6610635689243628617
+    second: goblin_spearman_Throw_end_10
+  - first:
+      213: -4727539904952012680
+    second: goblin_spearman_Throw_end_11
+  - first:
+      213: -4437140731513070254
+    second: goblin_spearman_Throw_end_12
+  - first:
+      213: 3837030817251322860
+    second: goblin_spearman_Throw_end_13
+  - first:
+      213: 6093357400241225000
+    second: goblin_spearman_Throw_end_14
+  - first:
+      213: 6787524385717193664
+    second: goblin_spearman_Throw_end_15
+  - first:
+      213: -1029123913161470629
+    second: goblin_spearman_Throw_end_16
+  - first:
+      213: -847490075592063288
+    second: goblin_spearman_Throw_end_17
+  - first:
+      213: -1629942849721282954
+    second: goblin_spearman_Throw_end_18
+  - first:
+      213: 7313352631018955109
+    second: goblin_spearman_Throw_end_19
+  - first:
+      213: 4039839400319318082
+    second: goblin_spearman_Throw_end_20
+  - first:
+      213: -2194411329925559117
+    second: goblin_spearman_Throw_end_21
+  - first:
+      213: 7052749821991277156
+    second: goblin_spearman_Throw_end_22
+  - first:
+      213: 4608080691327598482
+    second: goblin_spearman_Throw_end_23
+  - first:
+      213: -7660851591727445601
+    second: goblin_spearman_Throw_end_24
+  - first:
+      213: 1770268751593597404
+    second: goblin_spearman_Throw_end_25
+  - first:
+      213: -3465503054478326768
+    second: goblin_spearman_Throw_end_26
+  - first:
+      213: -8387414097280165654
+    second: goblin_spearman_Throw_end_27
+  - first:
+      213: 6545808597853309594
+    second: goblin_spearman_Throw_end_28
+  - first:
+      213: -7220410669828269735
+    second: goblin_spearman_Throw_end_29
+  - first:
+      213: -384171630411542051
+    second: goblin_spearman_Throw_end_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_spearman_Throw_end_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e104034cd438b6040800000000000000
+      internalID: 4641948210962645022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_Throw_end_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a6979768fccb10800000000000000
+      internalID: 2003249058081579321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_Throw_end_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7fb62affc3e4410800000000000000
+      internalID: 1463173997581301693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_Throw_end_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db1c3fe9dedb6970800000000000000
+      internalID: 8749331728700283856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_Throw_end_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1666012b859ff670800000000000000
+      internalID: 8574736640323773982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_Throw_end_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7950d201fcdfe0800000000000000
+      internalID: -1162789609380676497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_Throw_end_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e4c21c19611ef0800000000000000
+      internalID: -139214544176879261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_Throw_end_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99f5a647b9ee2b80800000000000000
+      internalID: -8417533680135308900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

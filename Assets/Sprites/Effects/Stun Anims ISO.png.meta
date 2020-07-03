@@ -1,0 +1,2182 @@
+fileFormatVersion: 2
+guid: fb9191b1baebd364592c2d9f6421b5f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1025690600887697969
+    second: Stun Anims ISO_0
+  - first:
+      213: 3255604479877773851
+    second: Stun Anims ISO_1
+  - first:
+      213: -846300686101363659
+    second: Stun Anims ISO_2
+  - first:
+      213: -6749284679378627527
+    second: Stun Anims ISO_3
+  - first:
+      213: -8017310665814990998
+    second: Stun Anims ISO_4
+  - first:
+      213: -7674530349366050218
+    second: Stun Anims ISO_5
+  - first:
+      213: 945123955190712942
+    second: Stun Anims ISO_6
+  - first:
+      213: -4057072616036014292
+    second: Stun Anims ISO_7
+  - first:
+      213: 5035240661687099645
+    second: Stun Anims ISO_8
+  - first:
+      213: -7430827796903689924
+    second: Stun Anims ISO_9
+  - first:
+      213: 6790375409242911488
+    second: Stun Anims ISO_10
+  - first:
+      213: 7253140492175519226
+    second: Stun Anims ISO_11
+  - first:
+      213: -5627332732264255029
+    second: Stun Anims ISO_12
+  - first:
+      213: -7368791721275223440
+    second: Stun Anims ISO_13
+  - first:
+      213: 1829331662002196408
+    second: Stun Anims ISO_14
+  - first:
+      213: 4784121994769595181
+    second: Stun Anims ISO_15
+  - first:
+      213: 5826738927242235740
+    second: Stun Anims ISO_16
+  - first:
+      213: 1171125493080070848
+    second: Stun Anims ISO_17
+  - first:
+      213: -4336926711984510968
+    second: Stun Anims ISO_18
+  - first:
+      213: 4697539299736978088
+    second: Stun Anims ISO_19
+  - first:
+      213: -4729681185940353528
+    second: Stun Anims ISO_20
+  - first:
+      213: 5826740527122487042
+    second: Stun Anims ISO_21
+  - first:
+      213: 3818355956756754066
+    second: Stun Anims ISO_22
+  - first:
+      213: 3417980984504897386
+    second: Stun Anims ISO_23
+  - first:
+      213: -743445269599666867
+    second: Stun Anims ISO_24
+  - first:
+      213: -1215911910685830738
+    second: Stun Anims ISO_25
+  - first:
+      213: 4500986093821672547
+    second: Stun Anims ISO_26
+  - first:
+      213: 6872188525395302410
+    second: Stun Anims ISO_27
+  - first:
+      213: -8913769905344810181
+    second: Stun Anims ISO_28
+  - first:
+      213: -4984279146085757600
+    second: Stun Anims ISO_29
+  - first:
+      213: 2275486148923971869
+    second: Stun Anims ISO_30
+  - first:
+      213: 3801410984999180389
+    second: Stun Anims ISO_31
+  - first:
+      213: -8466538198090229662
+    second: Stun Anims ISO_32
+  - first:
+      213: -4015956042439209917
+    second: Stun Anims ISO_33
+  - first:
+      213: 3640176533128086856
+    second: Stun Anims ISO_34
+  - first:
+      213: -680018332065952449
+    second: Stun Anims ISO_35
+  - first:
+      213: 5846987284904506303
+    second: Stun Anims ISO_36
+  - first:
+      213: -5724759443225297681
+    second: Stun Anims ISO_37
+  - first:
+      213: -8203858635233355276
+    second: Stun Anims ISO_38
+  - first:
+      213: -8646008573664229918
+    second: Stun Anims ISO_39
+  - first:
+      213: 7834117086338338752
+    second: Stun Anims ISO_40
+  - first:
+      213: 7203143075884125480
+    second: Stun Anims ISO_41
+  - first:
+      213: 8426859453165399956
+    second: Stun Anims ISO_42
+  - first:
+      213: -5936982654913552584
+    second: Stun Anims ISO_43
+  - first:
+      213: 4017944912645291830
+    second: Stun Anims ISO_44
+  - first:
+      213: 3068191193403567825
+    second: Stun Anims ISO_45
+  - first:
+      213: -7611180090047964521
+    second: Stun Anims ISO_46
+  - first:
+      213: 3609559197878825118
+    second: Stun Anims ISO_47
+  - first:
+      213: -213357300762656409
+    second: Stun Anims ISO_48
+  - first:
+      213: -3468718923525451389
+    second: Stun Anims ISO_49
+  - first:
+      213: 1332221293351643053
+    second: Stun Anims ISO_50
+  - first:
+      213: -8055809419003735907
+    second: Stun Anims ISO_51
+  - first:
+      213: -4254119853242242326
+    second: Stun Anims ISO_52
+  - first:
+      213: -3999871673354104291
+    second: Stun Anims ISO_53
+  - first:
+      213: -1410563347554705760
+    second: Stun Anims ISO_54
+  - first:
+      213: 6210352890081538522
+    second: Stun Anims ISO_55
+  - first:
+      213: -1995890395261004088
+    second: Stun Anims ISO_56
+  - first:
+      213: -7888350349266641176
+    second: Stun Anims ISO_57
+  - first:
+      213: 3360736104283090218
+    second: Stun Anims ISO_58
+  - first:
+      213: 3946592257439904725
+    second: Stun Anims ISO_59
+  - first:
+      213: -7058682231886361169
+    second: Stun Anims ISO_60
+  - first:
+      213: -4937358060071523905
+    second: Stun Anims ISO_61
+  - first:
+      213: 2163846387526615253
+    second: Stun Anims ISO_62
+  - first:
+      213: -236916338640566032
+    second: Stun Anims ISO_63
+  - first:
+      213: -1163835258298670440
+    second: Stun Anims ISO_64
+  - first:
+      213: -4574966716848961437
+    second: Stun Anims ISO_65
+  - first:
+      213: 333504416783770245
+    second: Stun Anims ISO_66
+  - first:
+      213: 9021056485491773852
+    second: Stun Anims ISO_67
+  - first:
+      213: -8127408662057279708
+    second: Stun Anims ISO_68
+  - first:
+      213: -4633928603025374608
+    second: Stun Anims ISO_69
+  - first:
+      213: 3129728386776268972
+    second: Stun Anims ISO_70
+  - first:
+      213: 76355434739512057
+    second: Stun Anims ISO_71
+  - first:
+      213: -9011865899476863215
+    second: Stun Anims ISO_72
+  - first:
+      213: 2239409861311001610
+    second: Stun Anims ISO_73
+  - first:
+      213: -511193122511371207
+    second: Stun Anims ISO_74
+  - first:
+      213: 5107578597577160679
+    second: Stun Anims ISO_75
+  - first:
+      213: 4642020348446288123
+    second: Stun Anims ISO_76
+  - first:
+      213: 3768501553736470123
+    second: Stun Anims ISO_77
+  - first:
+      213: -3239319571722998428
+    second: Stun Anims ISO_78
+  - first:
+      213: -6961054476215365036
+    second: Stun Anims ISO_79
+  - first:
+      213: -8026826108557834569
+    second: Stun Anims ISO_80
+  - first:
+      213: -1875403904354686067
+    second: Stun Anims ISO_81
+  - first:
+      213: -5553668285754662547
+    second: Stun Anims ISO_82
+  - first:
+      213: 1976824825252362129
+    second: Stun Anims ISO_83
+  - first:
+      213: -4475578335620969975
+    second: Stun Anims ISO_84
+  - first:
+      213: 8611019164041755752
+    second: Stun Anims ISO_85
+  - first:
+      213: 807546819109334877
+    second: Stun Anims ISO_86
+  - first:
+      213: -5022726701964102820
+    second: Stun Anims ISO_87
+  - first:
+      213: 8626960664256890817
+    second: Stun Anims ISO_88
+  - first:
+      213: -5510612501921040965
+    second: Stun Anims ISO_89
+  - first:
+      213: -7412856229320281
+    second: Stun Anims ISO_90
+  - first:
+      213: 3677433410692828571
+    second: Stun Anims ISO_91
+  - first:
+      213: 2505480270588333349
+    second: Stun Anims ISO_92
+  - first:
+      213: -6730206158474071806
+    second: Stun Anims ISO_93
+  - first:
+      213: 311085857330865126
+    second: Stun Anims ISO_94
+  - first:
+      213: 1995720068518696174
+    second: Stun Anims ISO_95
+  - first:
+      213: -7572041733081580415
+    second: Stun Anims ISO_96
+  - first:
+      213: 2250324700058720146
+    second: Stun Anims ISO_97
+  - first:
+      213: 1212810014420685291
+    second: Stun Anims ISO_98
+  - first:
+      213: 5077007970114272802
+    second: Stun Anims ISO_99
+  - first:
+      213: -8932515997121022617
+    second: Stun Anims ISO_100
+  - first:
+      213: 6278129161832546137
+    second: Stun Anims ISO_101
+  - first:
+      213: -5728802674900776863
+    second: Stun Anims ISO_102
+  - first:
+      213: -8970311123455194294
+    second: Stun Anims ISO_103
+  - first:
+      213: -1542418599990947571
+    second: Stun Anims ISO_104
+  - first:
+      213: -2771275490220730582
+    second: Stun Anims ISO_105
+  - first:
+      213: 7933969827709454023
+    second: Stun Anims ISO_106
+  - first:
+      213: -2089071721265376579
+    second: Stun Anims ISO_107
+  - first:
+      213: 4512030574923319695
+    second: Stun Anims ISO_108
+  - first:
+      213: 1706060573170621296
+    second: Stun Anims ISO_109
+  - first:
+      213: -2606666750806203284
+    second: Stun Anims ISO_110
+  - first:
+      213: 6616358991329518694
+    second: Stun Anims ISO_111
+  - first:
+      213: 8744807514380343755
+    second: Stun Anims ISO_112
+  - first:
+      213: 8403506051616628771
+    second: Stun Anims ISO_113
+  - first:
+      213: -3297785306265872609
+    second: Stun Anims ISO_114
+  - first:
+      213: -4815998682475403451
+    second: Stun Anims ISO_115
+  - first:
+      213: 1603142112997209192
+    second: Stun Anims ISO_116
+  - first:
+      213: 8888101733786961902
+    second: Stun Anims ISO_117
+  - first:
+      213: 1339242647509759577
+    second: Stun Anims ISO_118
+  - first:
+      213: -900704470673050973
+    second: Stun Anims ISO_119
+  - first:
+      213: -8474755031908420843
+    second: Stun Anims ISO_120
+  - first:
+      213: -4619291565830995829
+    second: Stun Anims ISO_121
+  - first:
+      213: -6544557001641439467
+    second: Stun Anims ISO_122
+  - first:
+      213: 7789142959153648357
+    second: Stun Anims ISO_123
+  - first:
+      213: 8571883692504711290
+    second: Stun Anims ISO_124
+  - first:
+      213: -7709774087707612698
+    second: Stun Anims ISO_125
+  - first:
+      213: 9028408287313830003
+    second: Stun Anims ISO_126
+  - first:
+      213: 6520397824293337339
+    second: Stun Anims ISO_127
+  - first:
+      213: 1777315107209534934
+    second: Stun Anims ISO_128
+  - first:
+      213: 8102658644451936398
+    second: Stun Anims ISO_129
+  - first:
+      213: 8869442641973069732
+    second: Stun Anims ISO_130
+  - first:
+      213: -2793811867335095366
+    second: Stun Anims ISO_131
+  - first:
+      213: 7393043953101983761
+    second: Stun Anims ISO_132
+  - first:
+      213: 188504330594595445
+    second: Stun Anims ISO_133
+  - first:
+      213: -8124215012675021503
+    second: Stun Anims ISO_134
+  - first:
+      213: -656470333483524953
+    second: Stun Anims ISO_135
+  - first:
+      213: 3137658472540287236
+    second: Stun Anims ISO_136
+  - first:
+      213: 8915046465035594336
+    second: Stun Anims ISO_137
+  - first:
+      213: -6587638274277299472
+    second: Stun Anims ISO_138
+  - first:
+      213: -4013797168088439221
+    second: Stun Anims ISO_139
+  - first:
+      213: -4274219914776250034
+    second: Stun Anims ISO_140
+  - first:
+      213: 8210409831085869739
+    second: Stun Anims ISO_141
+  - first:
+      213: -7728952971077921933
+    second: Stun Anims ISO_142
+  - first:
+      213: -8013304761128792415
+    second: Stun Anims ISO_143
+  - first:
+      213: -6013604435684409466
+    second: Stun Anims ISO_144
+  - first:
+      213: -1471343700967782592
+    second: Stun Anims ISO_145
+  - first:
+      213: -8186730070630519116
+    second: Stun Anims ISO_146
+  - first:
+      213: -8779087623341268167
+    second: Stun Anims ISO_147
+  - first:
+      213: -6291096961507102244
+    second: Stun Anims ISO_148
+  - first:
+      213: 2437772555378796330
+    second: Stun Anims ISO_149
+  - first:
+      213: -1208756245832701827
+    second: Stun Anims ISO_150
+  - first:
+      213: -428698218710172664
+    second: Stun Anims ISO_151
+  - first:
+      213: 8248773890419512858
+    second: Stun Anims ISO_152
+  - first:
+      213: -2223480881524095647
+    second: Stun Anims ISO_153
+  - first:
+      213: -8936771540611328758
+    second: Stun Anims ISO_154
+  - first:
+      213: -702887143663682982
+    second: Stun Anims ISO_155
+  - first:
+      213: 8431894914009178823
+    second: Stun Anims ISO_156
+  - first:
+      213: -5575256701988530946
+    second: Stun Anims ISO_157
+  - first:
+      213: -3826861991274487631
+    second: Stun Anims ISO_158
+  - first:
+      213: 4515596465425701502
+    second: Stun Anims ISO_159
+  - first:
+      213: 7292950418091914761
+    second: Stun Anims ISO_160
+  - first:
+      213: -3789934633367802435
+    second: Stun Anims ISO_161
+  - first:
+      213: -5679620816666621470
+    second: Stun Anims ISO_162
+  - first:
+      213: -2362790533366637601
+    second: Stun Anims ISO_163
+  - first:
+      213: -9087838545302930463
+    second: Stun Anims ISO_164
+  - first:
+      213: -8180399269639658308
+    second: Stun Anims ISO_165
+  - first:
+      213: 1965211255961368986
+    second: Stun Anims ISO_166
+  - first:
+      213: 7809644480753283191
+    second: Stun Anims ISO_167
+  - first:
+      213: 6162565766176277216
+    second: Stun Anims ISO_168
+  - first:
+      213: 6644040502532911342
+    second: Stun Anims ISO_169
+  - first:
+      213: 4242938747487124391
+    second: Stun Anims ISO_170
+  - first:
+      213: 2079084572470168116
+    second: Stun Anims ISO_171
+  - first:
+      213: -1547990728832152364
+    second: Stun Anims ISO_172
+  - first:
+      213: -6465745706036734965
+    second: Stun Anims ISO_173
+  - first:
+      213: -6689590892095673652
+    second: Stun Anims ISO_174
+  - first:
+      213: 3414317938628747006
+    second: Stun Anims ISO_175
+  - first:
+      213: -6990427114173928897
+    second: Stun Anims ISO_176
+  - first:
+      213: 3065182621556915172
+    second: Stun Anims ISO_177
+  - first:
+      213: -3320546760450771452
+    second: Stun Anims ISO_178
+  - first:
+      213: 4902861534183936005
+    second: Stun Anims ISO_179
+  - first:
+      213: -2367736491380012971
+    second: Stun Anims ISO_180
+  - first:
+      213: 3696468921393464413
+    second: Stun Anims ISO_181
+  - first:
+      213: 2491679636366291578
+    second: Stun Anims ISO_182
+  - first:
+      213: 2853134761107745704
+    second: Stun Anims ISO_183
+  - first:
+      213: 1776038098397664098
+    second: Stun Anims ISO_184
+  - first:
+      213: -4768081446430791901
+    second: Stun Anims ISO_185
+  - first:
+      213: -2766744347914908776
+    second: Stun Anims ISO_186
+  - first:
+      213: -6689296544010997603
+    second: Stun Anims ISO_187
+  - first:
+      213: -7153667625365501482
+    second: Stun Anims ISO_188
+  - first:
+      213: -4923415907455520084
+    second: Stun Anims ISO_189
+  - first:
+      213: -8841683002426477281
+    second: Stun Anims ISO_190
+  - first:
+      213: -4160702124401048091
+    second: Stun Anims ISO_191
+  - first:
+      213: 542644171176142136
+    second: Stun Anims ISO_192
+  - first:
+      213: 3837025902410351079
+    second: Stun Anims ISO_193
+  - first:
+      213: -1365154961871451249
+    second: Stun Anims ISO_194
+  - first:
+      213: 3249804513495693720
+    second: Stun Anims ISO_195
+  - first:
+      213: 3796083584142724482
+    second: Stun Anims ISO_196
+  - first:
+      213: -467918606004492248
+    second: Stun Anims ISO_197
+  - first:
+      213: -7465080577377749121
+    second: Stun Anims ISO_198
+  - first:
+      213: -4681200987749853147
+    second: Stun Anims ISO_199
+  - first:
+      213: -4715960026831111779
+    second: Stun Anims ISO_200
+  - first:
+      213: -8570416100262091515
+    second: Stun Anims ISO_201
+  - first:
+      213: 857626773628186406
+    second: Stun Anims ISO_202
+  - first:
+      213: -1550402100005249956
+    second: Stun Anims ISO_203
+  - first:
+      213: 3949771306669252822
+    second: Stun Anims ISO_204
+  - first:
+      213: -1679876793648741305
+    second: Stun Anims ISO_205
+  - first:
+      213: 6810899967893969704
+    second: Stun Anims ISO_206
+  - first:
+      213: 3653461404113090861
+    second: Stun Anims ISO_207
+  - first:
+      213: -8896771133248144851
+    second: Stun Anims ISO_208
+  - first:
+      213: 9180368922938718676
+    second: Stun Anims ISO_209
+  - first:
+      213: -6807771605117471195
+    second: Stun Anims ISO_210
+  - first:
+      213: -7683827115000784808
+    second: Stun Anims ISO_211
+  - first:
+      213: 8962590233796501945
+    second: Stun Anims ISO_212
+  - first:
+      213: -7513061297277706132
+    second: Stun Anims ISO_213
+  - first:
+      213: -829188951248281833
+    second: Stun Anims ISO_214
+  - first:
+      213: 2971656610662499930
+    second: Stun Anims ISO_215
+  - first:
+      213: 8570096196356994021
+    second: Stun Anims ISO_216
+  - first:
+      213: 6349878609334914798
+    second: Stun Anims ISO_217
+  - first:
+      213: -3810668579749345278
+    second: Stun Anims ISO_218
+  - first:
+      213: -2346198794813380136
+    second: Stun Anims ISO_219
+  - first:
+      213: -4929152589832456833
+    second: Stun Anims ISO_220
+  - first:
+      213: 819757716170207946
+    second: Stun Anims ISO_221
+  - first:
+      213: 3943412545816064778
+    second: Stun Anims ISO_222
+  - first:
+      213: 2438556121423324566
+    second: Stun Anims ISO_223
+  - first:
+      213: 9056897713420156715
+    second: Stun Anims ISO_224
+  - first:
+      213: 9121453165586121275
+    second: Stun Anims ISO_225
+  - first:
+      213: 7973064327713772413
+    second: Stun Anims ISO_226
+  - first:
+      213: 7356969208850909329
+    second: Stun Anims ISO_227
+  - first:
+      213: 2805847934382585112
+    second: Stun Anims ISO_228
+  - first:
+      213: 1416446652180805789
+    second: Stun Anims ISO_229
+  - first:
+      213: -2322692970584197769
+    second: Stun Anims ISO_230
+  - first:
+      213: -5924917655531609826
+    second: Stun Anims ISO_231
+  - first:
+      213: -7486891741785678520
+    second: Stun Anims ISO_232
+  - first:
+      213: -392304354951306206
+    second: Stun Anims ISO_233
+  - first:
+      213: -7102706133930815350
+    second: Stun Anims ISO_234
+  - first:
+      213: -9106067043370147086
+    second: Stun Anims ISO_235
+  - first:
+      213: 6416446650454880046
+    second: Stun Anims ISO_236
+  - first:
+      213: -1310762974293723462
+    second: Stun Anims ISO_237
+  - first:
+      213: 7350214890855978525
+    second: Stun Anims ISO_238
+  - first:
+      213: 8929684903228078396
+    second: Stun Anims ISO_239
+  - first:
+      213: 3613389874237566860
+    second: Stun Anims ISO_240
+  - first:
+      213: 3437112736475410855
+    second: Stun Anims ISO_241
+  - first:
+      213: -7862845567790607165
+    second: Stun Anims ISO_242
+  - first:
+      213: 8230451181369723776
+    second: Stun Anims ISO_243
+  - first:
+      213: -1032707791493000030
+    second: Stun Anims ISO_244
+  - first:
+      213: 8040555769811008419
+    second: Stun Anims ISO_245
+  - first:
+      213: 7346333314895329164
+    second: Stun Anims ISO_246
+  - first:
+      213: 7725256777976148998
+    second: Stun Anims ISO_247
+  - first:
+      213: -3007707613299450692
+    second: Stun Anims ISO_248
+  - first:
+      213: -2317521039326014113
+    second: Stun Anims ISO_249
+  - first:
+      213: -7486203392428106637
+    second: Stun Anims ISO_250
+  - first:
+      213: 4147875454073093733
+    second: Stun Anims ISO_251
+  - first:
+      213: -259450513735661469
+    second: Stun Anims ISO_252
+  - first:
+      213: 7592492599549661359
+    second: Stun Anims ISO_253
+  - first:
+      213: 7850784929925203976
+    second: Stun Anims ISO_254
+  - first:
+      213: 619947141379615644
+    second: Stun Anims ISO_255
+  - first:
+      213: -3269291496653519432
+    second: Stun Anims ISO_256
+  - first:
+      213: -2914923269390503236
+    second: Stun Anims ISO_257
+  - first:
+      213: -3122936666623787825
+    second: Stun Anims ISO_258
+  - first:
+      213: -748625209171190794
+    second: Stun Anims ISO_259
+  - first:
+      213: -3841900884032114581
+    second: Stun Anims ISO_260
+  - first:
+      213: 1300540296321034537
+    second: Stun Anims ISO_261
+  - first:
+      213: -6415381715865390787
+    second: Stun Anims ISO_262
+  - first:
+      213: -3806563297340781789
+    second: Stun Anims ISO_263
+  - first:
+      213: 6480864373746171453
+    second: Stun Anims ISO_264
+  - first:
+      213: 5557050559196847630
+    second: Stun Anims ISO_265
+  - first:
+      213: -8957226715977603024
+    second: Stun Anims ISO_266
+  - first:
+      213: -2631143822662466023
+    second: Stun Anims ISO_267
+  - first:
+      213: 7246640171380124910
+    second: Stun Anims ISO_268
+  - first:
+      213: 8418588800451763984
+    second: Stun Anims ISO_269
+  - first:
+      213: -5507631898576373150
+    second: Stun Anims ISO_270
+  - first:
+      213: -3241518918339017018
+    second: Stun Anims ISO_271
+  - first:
+      213: -6625704705531783217
+    second: Stun Anims ISO_272
+  - first:
+      213: 76967989254532665
+    second: Stun Anims ISO_273
+  - first:
+      213: 7136265415995767893
+    second: Stun Anims ISO_274
+  - first:
+      213: 4495788857261944432
+    second: Stun Anims ISO_275
+  - first:
+      213: -8216420394494375367
+    second: Stun Anims ISO_276
+  - first:
+      213: -9141056112941163425
+    second: Stun Anims ISO_277
+  - first:
+      213: -6575740404415079956
+    second: Stun Anims ISO_278
+  - first:
+      213: 2640419029851767821
+    second: Stun Anims ISO_279
+  - first:
+      213: -711287954877006155
+    second: Stun Anims ISO_280
+  - first:
+      213: 3831890019405987320
+    second: Stun Anims ISO_281
+  - first:
+      213: 171585558003499245
+    second: Stun Anims ISO_282
+  - first:
+      213: 3744708230744007266
+    second: Stun Anims ISO_283
+  - first:
+      213: -5698177405629438497
+    second: Stun Anims ISO_284
+  - first:
+      213: 5017891677092560842
+    second: Stun Anims ISO_285
+  - first:
+      213: -2416421333548066598
+    second: Stun Anims ISO_286
+  - first:
+      213: -2381006040272225938
+    second: Stun Anims ISO_287
+  - first:
+      213: -2294092323636516070
+    second: Stun Anims ISO_288
+  - first:
+      213: -1804442722010447260
+    second: Stun Anims ISO_289
+  - first:
+      213: -6408236665654488998
+    second: Stun Anims ISO_290
+  - first:
+      213: 5166302037086860593
+    second: Stun Anims ISO_291
+  - first:
+      213: 1588668949986102924
+    second: Stun Anims ISO_292
+  - first:
+      213: 505373069535863623
+    second: Stun Anims ISO_293
+  - first:
+      213: 7663970052406954520
+    second: Stun Anims ISO_294
+  - first:
+      213: 1993427641651711209
+    second: Stun Anims ISO_295
+  - first:
+      213: 1993107979561879239
+    second: Stun Anims ISO_296
+  - first:
+      213: 3422243696693690997
+    second: Stun Anims ISO_297
+  - first:
+      213: 2839239007731761587
+    second: Stun Anims ISO_298
+  - first:
+      213: 2771151583939170707
+    second: Stun Anims ISO_299
+  - first:
+      213: 6444949374728803166
+    second: Stun Anims ISO_300
+  - first:
+      213: -7124544022392709761
+    second: Stun Anims ISO_301
+  - first:
+      213: 1050346195066272990
+    second: Stun Anims ISO_302
+  - first:
+      213: -9134629742083185510
+    second: Stun Anims ISO_303
+  - first:
+      213: 5430422023578719096
+    second: Stun Anims ISO_304
+  - first:
+      213: -5003227933872797437
+    second: Stun Anims ISO_305
+  - first:
+      213: 6367622223843983440
+    second: Stun Anims ISO_306
+  - first:
+      213: 4409052884800296566
+    second: Stun Anims ISO_307
+  - first:
+      213: -5164713003828586346
+    second: Stun Anims ISO_308
+  - first:
+      213: 1785532419713652570
+    second: Stun Anims ISO_309
+  - first:
+      213: -2969758376964700668
+    second: Stun Anims ISO_310
+  - first:
+      213: -6682130617669573044
+    second: Stun Anims ISO_311
+  - first:
+      213: -7290459604432556112
+    second: Stun Anims ISO_312
+  - first:
+      213: -2365942745157792097
+    second: Stun Anims ISO_313
+  - first:
+      213: 7144227183700685608
+    second: Stun Anims ISO_314
+  - first:
+      213: 2902213816735274806
+    second: Stun Anims ISO_315
+  - first:
+      213: -309395717903996385
+    second: Stun Anims ISO_316
+  - first:
+      213: 72511299767979942
+    second: Stun Anims ISO_317
+  - first:
+      213: 4156012710483715999
+    second: Stun Anims ISO_318
+  - first:
+      213: -5597994140352504464
+    second: Stun Anims ISO_319
+  - first:
+      213: -4454922720847346714
+    second: Stun Anims ISO_320
+  - first:
+      213: 6688620649883414389
+    second: Stun Anims ISO_321
+  - first:
+      213: 3566001597134716426
+    second: Stun Anims ISO_322
+  - first:
+      213: -812878829435166395
+    second: Stun Anims ISO_323
+  - first:
+      213: 7616843997117664008
+    second: Stun Anims ISO_324
+  - first:
+      213: 7833915415738376826
+    second: Stun Anims ISO_325
+  - first:
+      213: 1584068155599699635
+    second: Stun Anims ISO_326
+  - first:
+      213: 3738924144063498211
+    second: Stun Anims ISO_327
+  - first:
+      213: -4122344381169802374
+    second: Stun Anims ISO_328
+  - first:
+      213: -8509390374598605740
+    second: Stun Anims ISO_329
+  - first:
+      213: -925016675172309411
+    second: Stun Anims ISO_330
+  - first:
+      213: 7349924720675816883
+    second: Stun Anims ISO_331
+  - first:
+      213: 342719213579969112
+    second: Stun Anims ISO_332
+  - first:
+      213: 8374436741417856774
+    second: Stun Anims ISO_333
+  - first:
+      213: 2832162194214137168
+    second: Stun Anims ISO_334
+  - first:
+      213: 4622560356454179402
+    second: Stun Anims ISO_335
+  - first:
+      213: -6420392061146512643
+    second: Stun Anims ISO_336
+  - first:
+      213: -8734269403366249323
+    second: Stun Anims ISO_337
+  - first:
+      213: -6039287785719929941
+    second: Stun Anims ISO_338
+  - first:
+      213: 148493419524429107
+    second: Stun Anims ISO_339
+  - first:
+      213: 5985698777040890242
+    second: Stun Anims ISO_340
+  - first:
+      213: -3309442005108313023
+    second: Stun Anims ISO_341
+  - first:
+      213: 3671348362326054379
+    second: Stun Anims ISO_342
+  - first:
+      213: 3437498571612723026
+    second: Stun Anims ISO_343
+  - first:
+      213: 511258339436181596
+    second: Stun Anims ISO_344
+  - first:
+      213: 1403904906827997495
+    second: Stun Anims ISO_345
+  - first:
+      213: 3795978639585872420
+    second: Stun Anims ISO_346
+  - first:
+      213: 4119177920608598339
+    second: Stun Anims ISO_347
+  - first:
+      213: 5854864776351450067
+    second: Stun Anims ISO_348
+  - first:
+      213: -9058210450840272046
+    second: Stun Anims ISO_349
+  - first:
+      213: -8405081548305550490
+    second: Stun Anims ISO_350
+  - first:
+      213: 7347785721332326880
+    second: Stun Anims ISO_351
+  - first:
+      213: -4161406094252975304
+    second: Stun Anims ISO_352
+  - first:
+      213: 677841186042997764
+    second: Stun Anims ISO_353
+  - first:
+      213: -7806181901160856679
+    second: Stun Anims ISO_354
+  - first:
+      213: -8142200826537934913
+    second: Stun Anims ISO_355
+  - first:
+      213: -8893291369395215438
+    second: Stun Anims ISO_356
+  - first:
+      213: -6068440067971535946
+    second: Stun Anims ISO_357
+  - first:
+      213: 6290306805833440583
+    second: Stun Anims ISO_358
+  - first:
+      213: 3976848402091889274
+    second: Stun Anims ISO_359
+  - first:
+      213: -6517158268987150590
+    second: Stun Anims ISO_360
+  - first:
+      213: 6760343637285412891
+    second: Stun Anims ISO_361
+  - first:
+      213: 3717614058623818434
+    second: Stun Anims ISO_362
+  - first:
+      213: -216979470753836946
+    second: Stun Anims ISO_363
+  - first:
+      213: 5066821239803577989
+    second: Stun Anims ISO_364
+  - first:
+      213: -4059231600524812577
+    second: Stun Anims ISO_365
+  - first:
+      213: -8725119782314185644
+    second: Stun Anims ISO_366
+  - first:
+      213: -8693066707737502479
+    second: Stun Anims ISO_367
+  - first:
+      213: -2412118159894881329
+    second: Stun Anims ISO_368
+  - first:
+      213: -9109010030632092376
+    second: Stun Anims ISO_369
+  - first:
+      213: 5510008256310036299
+    second: Stun Anims ISO_370
+  - first:
+      213: 1279363843659166792
+    second: Stun Anims ISO_371
+  - first:
+      213: 11613898468999176
+    second: Stun Anims ISO_372
+  - first:
+      213: 6466951721927948840
+    second: Stun Anims ISO_373
+  - first:
+      213: -2335994592667044385
+    second: Stun Anims ISO_374
+  - first:
+      213: 2842933381267346451
+    second: Stun Anims ISO_375
+  - first:
+      213: 7070107451651554753
+    second: Stun Anims ISO_376
+  - first:
+      213: 5514555204363684126
+    second: Stun Anims ISO_377
+  - first:
+      213: 1988291025374949679
+    second: Stun Anims ISO_378
+  - first:
+      213: 1015960801606389867
+    second: Stun Anims ISO_379
+  - first:
+      213: -1950111010742665693
+    second: Stun Anims ISO_380
+  - first:
+      213: 3664825606264284834
+    second: Stun Anims ISO_381
+  - first:
+      213: 2956469311916333369
+    second: Stun Anims ISO_382
+  - first:
+      213: 7604314085300278346
+    second: Stun Anims ISO_383
+  - first:
+      213: 5554792826757469773
+    second: Stun Anims ISO_384
+  - first:
+      213: -6767773728855171686
+    second: Stun Anims ISO_385
+  - first:
+      213: 3999984829835300217
+    second: Stun Anims ISO_386
+  - first:
+      213: -629579886527274124
+    second: Stun Anims ISO_387
+  - first:
+      213: 4305923143005426551
+    second: Stun Anims ISO_388
+  - first:
+      213: 8595020530013342513
+    second: Stun Anims ISO_389
+  - first:
+      213: 3327728791495238084
+    second: Stun Anims ISO_390
+  - first:
+      213: -8933218205016805233
+    second: Stun Anims ISO_391
+  - first:
+      213: 7017226862673721864
+    second: Stun Anims ISO_392
+  - first:
+      213: -87394385511360613
+    second: Stun Anims ISO_393
+  - first:
+      213: -8802274247553536839
+    second: Stun Anims ISO_394
+  - first:
+      213: -7248620976645982129
+    second: Stun Anims ISO_395
+  - first:
+      213: -2500984924483529543
+    second: Stun Anims ISO_396
+  - first:
+      213: 2707330938614194420
+    second: Stun Anims ISO_397
+  - first:
+      213: -4142129293603113616
+    second: Stun Anims ISO_398
+  - first:
+      213: -1615273666029868051
+    second: Stun Anims ISO_399
+  - first:
+      213: -7166022877663642444
+    second: Stun Anims ISO_400
+  - first:
+      213: 5185642265846660890
+    second: Stun Anims ISO_401
+  - first:
+      213: 6164728031401697664
+    second: Stun Anims ISO_402
+  - first:
+      213: -4161199030426149820
+    second: Stun Anims ISO_403
+  - first:
+      213: 9206154636690869771
+    second: Stun Anims ISO_404
+  - first:
+      213: -2785367027720457610
+    second: Stun Anims ISO_405
+  - first:
+      213: 163879251690505725
+    second: Stun Anims ISO_406
+  - first:
+      213: 9053262592326433595
+    second: Stun Anims ISO_407
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stun Anims ISO_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdb1a435d304c1f0800000000000000
+      internalID: -1025690600887697969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 450.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af848860b3e2d20800000000000000
+      internalID: 3255604479877773851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53442c782065144f0800000000000000
+      internalID: -846300686101363659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 450.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93496a5e759b552a0800000000000000
+      internalID: -6749284679378627527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_4
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 450.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f952e4d6accb090800000000000000
+      internalID: -8017310665814990998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_5
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 450.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65205140f479e7590800000000000000
+      internalID: -7674530349366050218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_6
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 450.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6acad1da31cd1d00800000000000000
+      internalID: 945123955190712942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 450.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27653573f162b7c0800000000000000
+      internalID: -4057072616036014292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0667634b4c0e540800000000000000
+      internalID: 5035240661687099645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 338.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31057a2d7560e890800000000000000
+      internalID: -7430827796903689924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 338.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b87f25724c3e50800000000000000
+      internalID: 6790375409242911488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 338.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdaf1e49d458a460800000000000000
+      internalID: 7253140492175519226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 338.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f574e1b2b7e1b0800000000000000
+      internalID: -5627332732264255029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 338.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0721d8598faccb990800000000000000
+      internalID: -7368791721275223440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_14
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 338.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf04025477136910800000000000000
+      internalID: 1829331662002196408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_15
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 338.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bff5c5b9d946240800000000000000
+      internalID: 4784121994769595181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc635de2cbcd050800000000000000
+      internalID: 5826738927242235740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca117a5e6ca04010800000000000000
+      internalID: 1171125493080070848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 226.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808a24b222420d3c0800000000000000
+      internalID: -4336926711984510968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 226.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2824fba13013140800000000000000
+      internalID: 4697539299736978088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 226.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4d23350ccc5eb0800000000000000
+      internalID: -4729681185940353528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_21
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 226.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207128553adbcd050800000000000000
+      internalID: 5826740527122487042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_22
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 226.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eab7c13868df430800000000000000
+      internalID: 3818355956756754066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_23
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 226.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f447e989b1f6f20800000000000000
+      internalID: 3417980984504897386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d319b5770cea5f0800000000000000
+      internalID: -743445269599666867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 114.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea197653f86302fe0800000000000000
+      internalID: -1215911910685830738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 114.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb63d4107b67e30800000000000000
+      internalID: 4500986093821672547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 114.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08d3bdad0bee5f50800000000000000
+      internalID: 6872188525395302410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 114.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33fa5e8f7deb4480800000000000000
+      internalID: -8913769905344810181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_29
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 114.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dcb24468844dab0800000000000000
+      internalID: -4984279146085757600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_30
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 114.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195feda896249f10800000000000000
+      internalID: 2275486148923971869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_31
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 114.4
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d42e662351c430800000000000000
+      internalID: 3801410984999180389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.4000015
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685e81dd50d08a80800000000000000
+      internalID: -8466538198090229662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2.4000015
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cc3d0c1457448c0800000000000000
+      internalID: -4015956042439209917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2.4000015
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84500d83541848230800000000000000
+      internalID: 3640176533128086856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_35
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2.4000015
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d847c0ee61096f0800000000000000
+      internalID: -680018332065952449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_36
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2.4000015
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb375faf4fba42150800000000000000
+      internalID: 5846987284904506303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_37
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2.4000015
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec3ef11e919d80b0800000000000000
+      internalID: -5724759443225297681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_38
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2.4000015
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91563890a062e80800000000000000
+      internalID: -8203858635233355276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Anims ISO_39
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2.4000015
+        width: 225
+        height: 112.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e503c1c205330880800000000000000
+      internalID: -8646008573664229918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

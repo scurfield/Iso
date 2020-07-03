@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InteractBox
+  - Enemy
+  - ItemPickup
+  - NPC
+  - EnemyAggro
+  - Obstacle
+  - Item
+  - Openable
+  - Load
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Enemies
+  - Orbs
+  - PostProcessing
+  - Player
+  - Pickup
+  - ForstBall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Below Ground
+    uniqueID: 150446781
+    locked: 0
+  - name: Ground
+    uniqueID: 1940046277
+    locked: 0
+  - name: Ontop Ground
+    uniqueID: 4119404767
+    locked: 0
+  - name: Ontop All
+    uniqueID: 95648875
+    locked: 0
